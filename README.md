@@ -2,7 +2,7 @@
 **This website for gym**
 ![githubdemo1](https://github.com/user-attachments/assets/c13ff76e-57f3-4b35-8486-30e6c05da0ef)
 
-- [Demo Project](https://code-banu.github.io/second-project/)
+- [Demo Project](https://code-banu.github.io/Gym-website/)
 
 - Developed by Raheleh Banam
 
