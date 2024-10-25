@@ -1,6 +1,6 @@
 # Gym-website
 **This website for gym**
-![githubdemo1](https://github.com/user-attachments/assets/c13ff76e-57f3-4b35-8486-30e6c05da0ef)
+![gym site](https://github.com/user-attachments/assets/850d57b3-3cee-4157-be2a-7a5adb555103)
 
 - [Demo Project](https://code-banu.github.io/Gym-website/)
 
